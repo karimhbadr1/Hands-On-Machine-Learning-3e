@@ -5,4 +5,4 @@ This repisotory will have all my work that I will be doing while working through
 I have started this on Sunday, November 3, 2024.
 
 ## Chapter 1: The Machine Learning Landscape (Sunday 3 November)
-## Chapter 2:
+## Chapter 2: End to End Machine Learning Project (Sunday November 10 - )
